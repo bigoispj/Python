@@ -29,41 +29,41 @@
 
 <body>
 
-    <h1>invertBin.py</h1>
+<h1>invertBin.py</h1>
 
-    <p>
+ <p>
         This is a Python script for inverting a binary tree. Replace this text with a brief description of what your script does.
-    </p>
+ </p>
 
-    <h2>Usage</h2>
+ <h2>Usage</h2>
 
-    <p>
+   <p>
         Provide instructions on how to use your script, including any command-line arguments or dependencies.
-    </p>
+   </p>
 
-    <h2>Example</h2>
+   <h2>Example</h2>
 
-    <p>
+   <p>
         Include an example of how to run your script and what output or changes to expect.
-    </p>
+   </p>
 
-    <h2>Contributions</h2>
+   <h2>Contributions</h2>
 
-    <p>
+   <p>
         If you'd like to contribute to this project, feel free to open an issue or submit a pull request.
-    </p>
+   </p>
 
-    <h2>License</h2>
+   <h2>License</h2>
 
-    <p>
+   <p>
         This project is licensed under the <a href="https://opensource.org/licenses/MIT">MIT License</a>. See the LICENSE file for details.
-    </p>
+   </p>
 
-    <h2>Contact</h2>
+   <h2>Contact</h2>
 
-    <p>
+   <p>
         If you have any questions or suggestions, you can reach out to me at [@bigoispj](https://github.com/bigoispj).
-    </p>
+   </p>
 
 </body>
 
