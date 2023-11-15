@@ -36,7 +36,7 @@
    <h2>License</h2>
 
    <p>
-        This project is licensed under the <a href="https://opensource.org/licenses/MIT">MIT License</a>. See the LICENSE file for details.
+        This project is licensed under the <a href="https://mit-license.org">MIT License</a>. See the LICENSE file for details.
    </p>
 
    <h2>Contact</h2>
